@@ -1,6 +1,6 @@
 # Slate
 
-A simple, dark theme for Google Chrome
+A simple, dark theme for Google Chrome.
 
 ## Screenshot
 
@@ -8,12 +8,14 @@ A simple, dark theme for Google Chrome
 
 ## Installation
 
+[Install Slate via the Chrome Web Store](https://chrome.google.com/webstore/detail/slate/jkiocfblhkadjnollnbplofmcnbglmnn)
+
+## Development
+
 - Clone this repo locally
 - Visit [chrome://extensions/](chrome://extensions/)
 - Enable "Developer mode" (top right corner)
 - Click "load unpacked", then find this extension
-
-Maybe one day I'll publish it on the Chrome store. Maybe not.
 
 ## License
 
