@@ -2,14 +2,16 @@
 
 A simple, dark theme for Google Chrome.
 
-## Screenshots
-
-![](marketing/screenshot-1.png)
-![](marketing/screenshot-2.png)
-
 ## Installation
 
 [Install Slate via the Chrome Web Store](https://chrome.google.com/webstore/detail/slate/jkiocfblhkadjnollnbplofmcnbglmnn)
+
+## Screenshots
+
+<p align='center'>
+  <img src='marketing/screenshot-1.png' width='640' height='400' alt='Screenshot 1'>
+  <img src='marketing/screenshot-2.png' width='640' height='400' alt='Screenshot 2'>
+</p>
 
 ## Development
 
