@@ -2,9 +2,10 @@
 
 A simple, dark theme for Google Chrome.
 
-## Screenshot
+## Screenshots
 
-![](https://i.imgur.com/tG7000z.png)
+![](marketing/screenshot-1.png)
+![](marketing/screenshot-2.png)
 
 ## Installation
 
