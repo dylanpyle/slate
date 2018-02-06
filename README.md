@@ -6,6 +6,9 @@ A simple, dark theme for Google Chrome.
 
 [Install Slate via the Chrome Web Store](https://chrome.google.com/webstore/detail/slate/jkiocfblhkadjnollnbplofmcnbglmnn)
 
+(As of 2018-02-06, still pending approval — use the "Development" directions
+below for now).
+
 ## Screenshots
 
 <p align='center'>
