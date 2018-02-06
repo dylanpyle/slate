@@ -1,0 +1,26 @@
+{
+   "description": "A simple, dark theme for Google Chrome",
+   "manifest_version": 2,
+   "name": "Slate",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 40, 40, 40 ],
+         "frame": [ 40, 40, 40 ],
+         "frame_inactive": [ 60, 60, 60 ],
+         "frame_incognito": [ 40, 40, 40 ],
+         "frame_incognito_inactive": [ 60, 60, 60 ],
+         "ntp_background": [ 40, 40, 40 ],
+         "ntp_text": [ 255, 255, 255 ],
+         "tab_background_text": [ 220, 220, 220 ],
+         "tab_text": [ 40, 40, 40 ]
+      },
+      "images": {
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_tab_background_incognito": "images/theme_tab_background.png",
+         "theme_tab_background_v": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}
