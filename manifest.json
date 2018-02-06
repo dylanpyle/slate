@@ -9,8 +9,6 @@
       "frame_inactive": [ 60, 60, 60 ],
       "frame_incognito": [ 40, 40, 40 ],
       "frame_incognito_inactive": [ 60, 60, 60 ],
-      "ntp_background": [ 40, 40, 40 ],
-      "ntp_text": [ 255, 255, 255 ],
       "tab_background_text": [ 220, 220, 220 ],
       "tab_text": [ 40, 40, 40 ]
     },
